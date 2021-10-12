@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+.Intro{
+    width: 80px;margin-left: -15px;
+}
